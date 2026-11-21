@@ -1,5 +1,7 @@
 EduPredict – Student Performance Prediction System
 
+LIVE DENO -  https://eeshward.github.io/Student_System/
+
 EduPredict is a web-based Student Performance Prediction System designed to monitor, analyze, and predict students’ academic performance based on marks, attendance, assignments, and assessment results.
 
 The system provides separate dashboards for students and faculty, making academic monitoring and student management easier and more efficient.
